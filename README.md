@@ -10,6 +10,8 @@ Mensagens carinhosas, corações escondidos e uma trilha chiptune original, em u
 
 **HTML5 · CSS3 · JavaScript · Web Audio API**
 
+**Acesse: https://naraemelly.github.io/EU-ESCOLHO-VOC-/**
+
 </div>
 
 ---
